@@ -11,3 +11,22 @@
 - what is github?
     it is a platform libirary using git.
     GitHub is a hosting platform for Git repositories
+
+- making a direction for a new repo in github account
+
+- creating a repo on github
+    (1) git init
+    (2) git add README.md
+    (3) git commit -m "first commit"
+    (4) git branch -M main
+    (5) git remote add origin https://github.com/khaled-elesawy/songs-playlist.git
+    (6) git push -u origin main
+
+- if we have our local repo we can ignore the first 4 steps    
+    (1) git remote add origin https://github.com/khaled-elesawy/songs-playlist.git
+    (2) git branch -M main
+    (3) git push -u origin main
+
+- in our terminal 
+
+- origin is the name of the remote
