@@ -31,3 +31,19 @@
 
 - origin is the name of the remote
 ==> git remote -v : will list the remotes we have 
+==> git remote remove origin : to delete remote origin
+
+
+
+- do not forget to push after commit 
+==> git push -u origin main
+
+- to pull github code
+==> git pull origin main
+
+
+- cloning
+==> git clone https://github.com/khaled-elesawy/playlist.git
+- note that we can not cloning a repo inside an exsisting repo
+
+
